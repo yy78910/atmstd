@@ -2,3 +2,6 @@ body {
 	background-image:url(../img/yqq.jpg);
 	background-repeat:no-repeat;
 }
+input {
+	position: top;
+}
